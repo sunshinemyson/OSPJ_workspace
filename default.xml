@@ -5,8 +5,8 @@
 	<default remote="github" revision="main"/> 
 
 	<project name="versilicon/TIM-VX" path="tim_vx" />
-	<project name="Versilicon/tensorflow" path="tensorflow" remote="github" revision="vx-delegate.v2.4.1"/>
-	<project name="OAID/Tengine" path="Tengine" remote="github" revision="tengine-lite"/>
+	<project name="Versilicon/tensorflow" path="tensorflow" revision="vx-delegate.v2.4.1"/>
+	<project name="OAID/Tengine" path="Tengine" revision="tengine-lite"/>
 	<project name="sunshinemyson/tvm-vsi-dev" path="tvm" remote="gitlab" revision="vsi_nbg_dev"/>
 </manifest>
 
