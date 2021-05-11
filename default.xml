@@ -1,6 +1,6 @@
 <manifest>
-	<remote name="github" fetch="https@github.com"/>
-	<remote name="gitlab" fetch="https@gitlab.com"/>
+	<remote name="github" fetch="https://github.com"/>
+	<remote name="gitlab" fetch="https://gitlab.com"/>
 
 	<project name="versilicon/TIM-VX" path="tim_vx" remote="github" revision="main"/>
 	<project name="Versilicon/tensorflow" path="tensorflow" remote="github" revision="vx-delegate.v2.4.1"/>
