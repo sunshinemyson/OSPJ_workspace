@@ -36,7 +36,7 @@
 
 	<project name="intel/intel-xpu-backend-for-triton.git" path="triton/intel-xpu"	remote="github" revision="main"/>
 	<project name="triton-lang/triton" 	path="triton/triton" remote="github" revision="main"/>
-	<project name="ascend/triton-ascend"	path="triton/ascend" remote="github" revision="main"/>
+	<project name="ascend/triton-ascend"	path="triton/ascend" remote="github" revision="master"/>
 	<project name="ggml-org/llama.cpp"	path="llama.cpp"	remote="github" revision="master"/>
 
 	<project name="sgl-project/sglang"	path="sglang"	remote="github" revision="main"/>
