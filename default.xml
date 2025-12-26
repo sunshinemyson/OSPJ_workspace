@@ -5,14 +5,27 @@
 	<project name="NVIDIA/cutlass" 		path="nv/cutlass" 	remote="github" revision="main"/>
 	<project name="NVIDIA/TensorRT-LLM" 	path="nv/TensorRT-LLM" 	remote="github" revision="main"/>
 	<project name="NVIDIA/TensorRT" 	path="nv/TensorRT" 	remote="github" revision="main"/>
+
 	<project name="NVIDIA/TileGym" 		path="nv/TileGym" 	remote="github" revision="main"/>
 	<project name="NVIDIA/cuda-tile" 	path="nv/cuda-tile" 	remote="github" revision="main"/>
 	<project name="NVIDIA/cutile-python" 	path="nv/cutile-python" remote="github" revision="main"/>
-	<project name="Dao-AILab/flash-attention" 	path="flash-attention" 			remote="github" revision="main"/>
-	<project name="HazyResearch/ThunderKittens" 	path="research/ThunderKittens" 		remote="github" revision="main"/>
- 	<project name="mirage-project/mirage"		path="research/mirage-mega-kernel" 	remote="github" revision="main"/>	
+
+	<project name="Dao-AILab/flash-attention" 	path="eng/flash-attention" 			remote="github" revision="main"/>
+	<project name="HazyResearch/ThunderKittens" 	path="eng/ThunderKittens" 		remote="github" revision="main"/>
+ 	<project name="mirage-project/mirage"		path="eng/mirage-mega-kernel" 	remote="github" revision="main"/>	
+
 	<project name="pytorch/pytorch"			path="pytorch/pytorch" 		remote="github" revision="main"/>
 	<project name="pytorch/executorch"		path="pytorch/executorch" 	remote="github" revision="main"/>
 	<project name="pytorch/ao"			path="pytorch/ao"		remote="github" revision="main"/>
 	<project name="pytorch/helion"			path="pytorch/helion"		remote="github" revision="main"/>
+	<project name="pytorch/xla"			path="xla"			remote="github" revision="main"/>
+
+	<project name="vllm-project/vllm"		path="vllm/vllm"		remote="github" revision="main"/>
+	<project name="vllm-project/vllm-omni"		path="vllm/vllm-omni"		remote="github" revision="main"/>
+
+	<project name="huggingface/transformers"	path="hg/transformers"		remote="github" revision="main"/>
+
+	<project name="muratcankoylan/Agent-Skills-for-Context-Engineering"
+		path="research/ContextEngineering" remote="github" revision="main"/>
+
 </manifest>
