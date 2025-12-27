@@ -32,7 +32,6 @@
 
 	<project name="facebookresearch/any4"		path="math/any4"		remote="github" revision="main"/>
 
-	<project name="openvla/openvla"			path="app/openvla"		remote="github" revision="main"/>
 
 	<project name="intel/intel-xpu-backend-for-triton.git" path="triton/intel-xpu"	remote="github" revision="main"/>
 	<project name="triton-lang/triton" 	path="triton/triton" remote="github" revision="main"/>
@@ -45,4 +44,8 @@
 
 	<project name="meta-pytorch/KernelAgent" path="meta/KernelAgent" remote="github" revision="main"/>
 	<project name="gpu-mode/lectures"	path="lecture/gpu-mode" remote="github" revision="main"/>
+
+
+	<project name="openvla/openvla"			path="app/openvla"		remote="github" revision="main"/>
+	<project name="QwenLM/Qwen3-Omni"		path="app/Qwen3-Omni"		remote="github" revision="main"/>
 </manifest>
