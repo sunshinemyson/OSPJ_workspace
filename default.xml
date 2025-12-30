@@ -56,6 +56,6 @@
 	<project name="PaddlePaddle/PaddleOCR"	path="app/PaddleOCR" remote="github" revision="main"/>
 
 	<project name="cloudcores/CuAssembler" path="arch/gpu/SASS_Assembler" remote="github" revision="master"/>
-	<project name="accel-sim/accel-sim-framework" path="arch/gpu/accel-sim-framework" remote="github" revision="main"/>
+	<project name="accel-sim/accel-sim-framework" path="arch/gpu/accel-sim-framework" remote="github" revision="dev"/>
 
 </manifest>
