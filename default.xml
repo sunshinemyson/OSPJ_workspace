@@ -23,8 +23,11 @@
 	<project name="openxla/xla"			path="openxla/xla"		remote="github" revision="main"/>
 	<project name="openxla/shardy"			path="openxla/shardy"		remote="github" revision="main"/>
 
-	<project name="vllm-project/vllm"		path="vllm/vllm"		remote="github" revision="main"/>
-	<project name="vllm-project/vllm-omni"		path="vllm/vllm-omni"		remote="github" revision="main"/>
+	<project name="vllm-project/vllm"		path="llm-sys/vllm"		remote="github" revision="main"/>
+	<project name="vllm-project/vllm-omni"		path="llm-sys/vllm-omni"	remote="github" revision="main"/>
+	<project name="LMCache/LMCache"			path="llm-sys/LMCache"		remote="github" revision="dev"/>
+	<project name="sgl-project/sglang"		path="llm-sys/sglang"		remote="github" revision="main"/>
+	<project name="ggml-org/llama.cpp"		path="llm-sys/llama.cpp"	remote="github" revision="master"/>
 
 	<project name="huggingface/transformers"	path="hg/transformers"		remote="github" revision="main"/>
 
@@ -32,13 +35,9 @@
 
 	<project name="facebookresearch/any4"		path="math/any4"		remote="github" revision="main"/>
 
-
 	<project name="intel/intel-xpu-backend-for-triton.git" path="triton/intel-xpu"	remote="github" revision="main"/>
 	<project name="triton-lang/triton" 	path="triton/triton" remote="github" revision="main"/>
 	<project name="ascend/triton-ascend"	path="triton/ascend" remote="github" revision="master"/>
-	<project name="ggml-org/llama.cpp"	path="llama.cpp"	remote="github" revision="master"/>
-
-	<project name="sgl-project/sglang"	path="sglang"	remote="github" revision="main"/>
 
 	<project name="nod-ai/iree-amd-aie" 	path="amd/aie" 	remote="github" revision="main"/>
 
@@ -46,7 +45,7 @@
 	<project name="gpu-mode/lectures"	path="lecture/gpu-mode" remote="github" revision="main"/>
 	<project name="microsoft/ai-agents-for-beginners" path="lecture/ai-agent-101" remote="github" revision="main"/>
 
-	<project name="microsoft/autogen" path="AgentDev/autogen" remote="github" revision="main"/>
+	<project name="microsoft/autogen" path="agent-dev/autogen" remote="github" revision="main"/>
 
 	<project name="openvla/openvla"			path="app/openvla"		remote="github" revision="main"/>
 	<project name="QwenLM/Qwen3-Omni"		path="app/Qwen3-Omni"		remote="github" revision="main"/>
