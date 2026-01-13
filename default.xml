@@ -42,7 +42,10 @@
 	<project name="nod-ai/iree-amd-aie" 	path="amd/aie" 	remote="github" revision="main"/>
 
 	<project name="meta-pytorch/KernelAgent" path="meta/KernelAgent" remote="github" revision="main"/>
+
 	<project name="gpu-mode/lectures"	path="lecture/gpu-mode" remote="github" revision="main"/>
+	<project name="stas00/the-art-of-debugging" path="lecture/the-art-of-debugging" remote="github" revision="master">
+	<project name="stas00/ml-engineering"	path="lecture/ml-engineering" remote="github" revision="master">
 	<project name="microsoft/ai-agents-for-beginners" path="lecture/ai-agent-101" remote="github" revision="main"/>
 
 	<project name="microsoft/autogen" path="agent-dev/autogen" remote="github" revision="main"/>
