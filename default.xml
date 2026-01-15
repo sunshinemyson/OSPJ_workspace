@@ -61,4 +61,5 @@
 	<project name="cloudcores/CuAssembler" path="arch/gpu/SASS_Assembler" remote="github" revision="master"/>
 	<project name="accel-sim/accel-sim-framework" path="arch/gpu/accel-sim-framework" remote="github" revision="dev"/>
 
+	<project name="libxsmm/tpp-mlir"	path="mlir-libs/intel-tpp-mlir" remote="github" revision="main"/>
 </manifest>
