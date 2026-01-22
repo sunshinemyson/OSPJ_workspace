@@ -11,10 +11,10 @@
 	<project name="NVIDIA/cutile-python" 	path="nv/cutile-python" remote="github" revision="main"/>
 	<project name="NVIDIA/TransformerEngine" path="nv/TransformerEngine" remote="github" revision="main"/>
 
-	<project name="Dao-AILab/flash-attention" 	path="eng/flash-attention" 			remote="github" revision="main"/>
-	<project name="HazyResearch/ThunderKittens" 	path="eng/ThunderKittens" 		remote="github" revision="main"/>
+	<project name="Dao-AILab/flash-attention" 	path="eng/flash-attention" 	remote="github" revision="main"/>
+	<project name="HazyResearch/ThunderKittens" 	path="eng/ThunderKittens" 	remote="github" revision="main"/>
  	<project name="mirage-project/mirage"		path="eng/mirage-mega-kernel" 	remote="github" revision="main"/>	
-	<project nmae="deepseek-ai/FlashMLA"		path="eng/flashmla"		remote="github" revision="main"/>
+	<project name="deepseek-ai/FlashMLA"		path="eng/flashmla"		remote="github" revision="main"/>
 
 	<project name="pytorch/pytorch"			path="pytorch/pytorch" 		remote="github" revision="main"/>
 	<project name="pytorch/executorch"		path="pytorch/executorch" 	remote="github" revision="main"/>
@@ -65,4 +65,6 @@
 	<project name="llvm/llvm-project"	path="mlir-libs/llvm-prject" remote="github" revision="main"/>
 
 	<project name="nod-ai/iree-amd-aie" 	path="mlir-libs/amd_aie" 	remote="github" revision="main"/>
+
+	<project name="oneoflzx/opencode-sentinel" path="tool/opencode-offline" remote="github" revision="dev"/>
 </manifest>
