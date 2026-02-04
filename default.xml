@@ -60,6 +60,7 @@
 
 	<project name="cloudcores/CuAssembler" path="arch/gpu/SASS_Assembler" remote="github" revision="master"/>
 	<project name="accel-sim/accel-sim-framework" path="arch/gpu/accel-sim-framework" remote="github" revision="dev"/>
+	<project name="shosho613/Mutation-Based-Test-Generation" path="arch/gpu/verification/shosho613/Mutation-Based-Test-Generation" remote="github" revision="main"/>
 
 	<project name="libxsmm/tpp-mlir"	path="mlir-libs/intel-tpp-mlir" remote="github" revision="main"/>
 	<project name="llvm/llvm-project"	path="mlir-libs/llvm-project" remote="github" revision="main"/>
