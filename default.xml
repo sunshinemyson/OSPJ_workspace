@@ -62,6 +62,7 @@
 	<project name="cloudcores/CuAssembler" path="arch/gpu/SASS_Assembler" remote="github" revision="master"/>
 	<project name="accel-sim/accel-sim-framework" path="arch/gpu/accel-sim-framework" remote="github" revision="dev"/>
 	<project name="shosho613/Mutation-Based-Test-Generation" path="arch/gpu/verification/Mutation-Based-Test-Generation" remote="github" revision="main"/>
+	<project name="YosysHQ/riscv-formal"	path="arch/isa-formal/riscv-formal" remote="github" revision="main"/>
 
 	<project name="pyxis-roc/tensor_core_semantics"	path="arch/tensor_core_semantics" remote="github" revision="main"/>
 
