@@ -54,6 +54,7 @@
 	<project name="openvla/openvla"			path="app/openvla"		remote="github" revision="main"/>
 	<project name="QwenLM/Qwen3-Omni"		path="app/Qwen3-Omni"		remote="github" revision="main"/>
 	<project name="bytedance/UI-TARS-desktop" 	path="app/UI-TARS-desktop"	remote="github"	revision="main"/>
+	<project name="u14app/deep-research"		path="app/deep-research"	remote="github" revision="main"/>
 
 	<project name="resemble-ai/chatterbox" 	path="app/chatterbox" remote="github" revision="master"/>
 	<project name="facebookresearch/sam-audio" path="app/sam-audio" remote="github" revision="main"/>
