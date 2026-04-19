@@ -70,6 +70,7 @@
 	<project name="YosysHQ/riscv-formal"	path="arch/isa-formal/riscv-formal" remote="github" revision="main"/>
 
 	<project name="pyxis-roc/tensor_core_semantics"	path="arch/tensor_core_semantics" remote="github" revision="main"/>
+	<project name="nvlabs/ptxmemorymodel" path="arch/ptx_memorymodel" remote="github" revision="master"/>
 
 	<project name="libxsmm/tpp-mlir"	path="mlir-libs/intel-tpp-mlir" remote="github" revision="main"/>
 	<project name="llvm/llvm-project"	path="mlir-libs/llvm-project" remote="github" revision="main"/>
