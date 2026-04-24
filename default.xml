@@ -15,7 +15,6 @@
 	<project name="NVIDIA/cuda-tile" 	path="nv/cuda-tile" 	remote="github" revision="main"/>
 	<project name="NVIDIA/cutile-python" 	path="nv/cutile-python" remote="github" revision="main"/>
 	<project name="NVIDIA/TransformerEngine" path="nv/TransformerEngine" remote="github" revision="main"/>
-	<project name="NVIDIA/Model-Optimizer"  path="nv/Modelopt" remote="github" revision="main" />
 
 	<project name="Dao-AILab/flash-attention" 	path="eng/flash-attention" 	remote="github" revision="main"/>
 	<project name="HazyResearch/ThunderKittens" 	path="eng/ThunderKittens" 	remote="github" revision="main"/>
