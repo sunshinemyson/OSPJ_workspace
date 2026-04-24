@@ -54,6 +54,8 @@
 	<project name="muratcankoylan/Agent-Skills-for-Context-Engineering" path="lecture/ContextEngineering" remote="github" revision="main"/>
 
 	<project name="microsoft/autogen" path="agent-dev/autogen" remote="github" revision="main"/>
+	<project name="obra/superpowers" path="agent-dev/superpowers" remote="github" revision="main"/>
+	<project name="addyosmani/agent-skills" path="agent-dev/agent-skills" remote="github" revision="main"/>
 
 	<project name="openvla/openvla"			path="app/openvla"		remote="github" revision="main"/>
 	<project name="QwenLM/Qwen3-Omni"		path="app/Qwen3-Omni"		remote="github" revision="main"/>
