@@ -2,6 +2,10 @@
 	<remote name="github" fetch="https://github.com"/>
 	<remote name="gitlab" fetch="https://gitlab.com"/>
 
+	<project name="tile-ai/tilelang"	path="deepseek/tile-lang"		remote="github" revision="main"/>
+	<project name="deepseek-ai/DeepGEMM"    path="deepseek/DeepGEMM"		remote="github" revision="main"/>
+	<project name="deepseek-ai/TileKernels" path="deepseek/tile-kernels"		remote="github" revision="main"/>
+
 	<project name="NVIDIA/cutlass" 		path="nv/cutlass" 		remote="github" revision="main"/>
 	<project name="NVIDIA/TensorRT-LLM" 	path="nv/TensorRT-LLM" 		remote="github" revision="main"/>
 	<project name="NVIDIA/TensorRT" 	path="nv/TensorRT" 		remote="github" revision="main"/>
