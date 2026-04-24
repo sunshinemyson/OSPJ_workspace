@@ -19,7 +19,7 @@
 
 	<project name="Dao-AILab/flash-attention" 	path="eng/flash-attention" 	remote="github" revision="main"/>
 	<project name="HazyResearch/ThunderKittens" 	path="eng/ThunderKittens" 	remote="github" revision="main"/>
- 	<project name="mirage-project/mirage"		path="eng/mirage-mega-kernel" 	remote="github" revision="main"/>	
+ 	<project name="mirage-project/mirage"		path="eng/mirage-mega-kernel" 	remote="github" revision="main"/>
 	<project name="deepseek-ai/FlashMLA"		path="eng/flashmla"		remote="github" revision="main"/>
 
 	<project name="pytorch/pytorch"			path="pytorch/pytorch" 		remote="github" revision="main"/>
@@ -68,7 +68,7 @@
 
 	<project name="resemble-ai/chatterbox" 	path="app/chatterbox" remote="github" revision="master"/>
 	<project name="facebookresearch/sam-audio" path="app/sam-audio" remote="github" revision="main"/>
-	<project name="PaddlePaddle/PaddleOCR"	path="app/PaddleOCR" remote="github" revision="main"/>
+	<!-- <project name="PaddlePaddle/PaddleOCR"	path="app/PaddleOCR" remote="github" revision="main"/> -->
 
 	<project name="cloudcores/CuAssembler" path="arch/gpu/SASS_Assembler" remote="github" revision="master"/>
 	<project name="accel-sim/accel-sim-framework" path="arch/gpu/accel-sim-framework" remote="github" revision="dev"/>
