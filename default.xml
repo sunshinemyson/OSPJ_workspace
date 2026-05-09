@@ -10,6 +10,7 @@
 	<project name="NVIDIA/TensorRT-LLM" 	path="nv/TensorRT-LLM" 		remote="github" revision="main"/>
 	<project name="NVIDIA/TensorRT" 	path="nv/TensorRT" 		remote="github" revision="main"/>
 	<project name="NVIDIA/Model-Optimizer"	path="nv/Model-Optimizer" 	remote="github" revision="main"/>
+	<project name="NVIDIA/cudnn-frontend" 	path="nv/cudnn-frontend" remote="gihhub" revision="main" />
 
 	<project name="NVIDIA/TileGym" 		path="nv/TileGym" 	remote="github" revision="main"/>
 	<project name="NVIDIA/cuda-tile" 	path="nv/cuda-tile" 	remote="github" revision="main"/>
