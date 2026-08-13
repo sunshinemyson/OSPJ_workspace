@@ -22,6 +22,7 @@
 	<project name="HazyResearch/ThunderKittens" 	path="eng/ThunderKittens" 	remote="github" revision="main"/>
  	<project name="mirage-project/mirage"		path="eng/mirage-mega-kernel" 	remote="github" revision="main"/>
 	<project name="deepseek-ai/FlashMLA"		path="eng/flashmla"		remote="github" revision="main"/>
+	<project name="zcoderz/high_performance_compute" path="eng/high_performance_compute" remote="github" revision="main"/>
 
 	<project name="pytorch/pytorch"			path="pytorch/pytorch" 		remote="github" revision="main"/>
 	<project name="pytorch/executorch"		path="pytorch/executorch" 	remote="github" revision="main"/>
